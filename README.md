@@ -60,4 +60,4 @@ Smart Home Automation
 
 Security Lighting
 
-[Jitendra Sharma] (GitHub: https://github.com/jitendrasharma-eng/4-Digit-Digital-Lock-using-Arduino.git)
+[Jitendra Sharma] (GitHub: https://github.com/jitendrasharma-eng/Microwave-Motion-Detector-Based-Automatic-Light.git)
